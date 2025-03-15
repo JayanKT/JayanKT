@@ -1,59 +1,65 @@
+![image](https://github.com/user-attachments/assets/5f25eaa1-e1e7-49b7-9c7a-441020ea14dc)
 
 ## Hi, I'm Jayan!  
 
-💻 Aspiring **Cybersecurity Analyst** | SOC Enthusiast | Threat Hunter  
+### 🛡️ **About Me**  
+💻 **Aspiring Cybersecurity Analyst** | Threat Hunter | SOC Enthusiast  
+🔍 Passionate about **security monitoring, log analysis, and threat detection**  
+📡 Learning **SIEM, incident response, and malware analysis**  
+🚀 Exploring **cyber defense strategies and security tools**
 
-🔹 Passionate about **security monitoring, log analysis, and incident detection**  
-🔹 Learning **SIEM, incident response, and malware analysis**  
-🔹 Exploring **cyber defense strategies and security tools**  
+###  <p align="center"> 📫 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayan-tamilarasi-b38581216/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📫 Let's connect: <a href="https://www.linkedin.com/in/jayan-tamilarasi-b38581216/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-
-📄 Check out my resume: <a href="https://drive.google.com/file/d/1fYP7LWoz8Fm3BS-XRNW3Uw9rU1EG4WWQ/view?usp=sharing" />  
-
+### <p align="center"> 📄 **Check Out My Resume**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fYP7LWoz8Fm3BS-XRNW3Uw9rU1EG4WWQ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Resume-FFA500?style=for-the-badge&logo=GoogleDrive&logoColor=white" />
+  </a>
+</p>
+ 
+ 
+  
 🚀 Always learning, always securing!  
  
- [Brief Introduction]
-  
- I am a recent MSc Information Security graduate with a strong passion for technology, cybersecurity. Dedicated to solving complex technical challenges and continuously learning to enhance system security and efficiency.
+I am a recent MSc Information Security graduate with a strong passion for technology, cybersecurity. Dedicated to solving complex technical challenges and continuously learning to enhance system security and efficiency.
  
  ## Objective
- [Provide Objective]
- 
- My journey in information security has fueled my passion for cybersecurity, and I am eager to apply my skills in a hands-on role. I aspire to specialize in security operations, with a particular interest in threat detection, network defense, and incident response.
+  
+My journey in information security has fueled my passion for cybersecurity, and I am eager to apply my skills in a hands-on role. I aspire to specialize in security operations, with a particular interest in threat detection, network defense, and incident response.
  
  ## Skills
- [Provide skills and associated project. Make sure to hyperlink the project]
- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
- 
+
  | Skill                                         | Associated Project         |
  |-----------------------------------------------|----------------------------|
- | SIEM Implementation and Log Analysis          | <a href="https://github.com/JayanKT/Log-analysis-with-Elastic-/blob/main/README.md">Detection Lab</a>|
+ | SIEM Implementation and Log Analysis          | <a href="https://github.com/JayanKT/Log-analysis-with-Elastic-/blob/main/README.md">Threat Detection with Atomic Red Team & Elastic SIEM</a>|
 
- 
- ## Tools
- [Provide tools and break them down into categories. Use ChatGPT to help create the link]
- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠 Tools  
 
+### 🔹 Security Information and Event Management (SIEM)  
+- <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> – Log storage, indexing, and search capabilities.  
+- <img src="https://img.shields.io/badge/-Kibana-FA3E6B?style=for-the-badge&logo=kibana&logoColor=white" /> – Data visualization and security analytics.  
+- <img src="https://img.shields.io/badge/-Winlogbeat-005571?style=for-the-badge&logo=elastic&logoColor=white" /> – Windows Event Log forwarding.  
+
+### 🔹 Security & Threat Simulation  
+- <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-FF0000?style=for-the-badge&logo=attackiq&logoColor=white" /> – Simulating real-world adversary tactics.  
+- <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> – Running attack simulations and automation scripts.  
+
+### 🔹 Virtualization & Testing  
+- <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> – Virtualized test environments for security labs.  
  
- ### Network
- <div>
- @@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
- </div>
- 
- ## Certifications
- [Provide certifications that you have obtained. Use ChatGPT to help create the link]
- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
- <div>
- <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
- @@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
- </div>
- 
- ## Projects
- - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
- - Detection Lab
- - SOC Automation Project
- - Test Project
+
+
+## 🎓 **Certifications**
+<p>
+   <img src="https://img.shields.io/badge/-CEH-AB2524?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+</p>  
+
+ ## Projects  
+- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Threat Detection with Atomic Red Team & Elastic SIEM</a>
+
+###  <p align="center">  🔒 **"Securing Systems, One Log at a Time!"**
