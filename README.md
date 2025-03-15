@@ -1,5 +1,5 @@
-@@ -1,29 +1,29 @@
-## Hi, I'm [Your Name]!  
+
+## Hi, I'm Jayan!  
 
 💻 Aspiring **Cybersecurity Analyst** | SOC Enthusiast | Threat Hunter  
 
@@ -8,6 +8,7 @@
 🔹 Exploring **cyber defense strategies and security tools**  
 
 📫 Let's connect: <a href="https://www.linkedin.com/in/jayan-tamilarasi-b38581216/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+
 📄 Check out my resume: <a href="https://drive.google.com/file/d/1fYP7LWoz8Fm3BS-XRNW3Uw9rU1EG4WWQ/view?usp=sharing" />  
 
 🚀 Always learning, always securing!  
@@ -27,8 +28,8 @@
  
  | Skill                                         | Associated Project         |
  |-----------------------------------------------|----------------------------|
- | SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+ | SIEM Implementation and Log Analysis          | <a href="https://github.com/JayanKT/Log-analysis-with-Elastic-/blob/main/README.md">Detection Lab</a>|
+
  
  ## Tools
  [Provide tools and break them down into categories. Use ChatGPT to help create the link]
